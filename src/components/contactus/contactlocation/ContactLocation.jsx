@@ -10,7 +10,7 @@ const ContactLocation = () => {
           </h1>
           <section className="rounded-md">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.017013621445!2d0.1282547764774372!3d51.494555271810384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8af4817a91ae5%3A0x20435413d5f33611!2sWalegrills!5e0!3m2!1sen!2sng!4v1708058696748!5m2!1sen!2sng"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.3125817980776!2d7.488057675827127!3d9.035224088889818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104e0b853e7eac5b%3A0x4db9d6c077113e6d!2sBwari%20Cl%2C%20Garki%2C%20Abuja%20900103%2C%20Federal%20Capital%20Territory!5e0!3m2!1sen!2sng!4v1741941636435!5m2!1sen!2sng"
               loading="lazy"
               className="rounded-md w-full h-[50vh]"
             ></iframe>
